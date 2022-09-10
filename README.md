@@ -1,6 +1,6 @@
 # Sortowania
 
-Projekt służy do porównywania 6 różnych algorytmów sortowania, są to:<br><br>
+Projekt służy do porównywania 6 różnych algorytmów sortowania, są to:<br>
 
 • Sortowanie przez wstawianie (Insertion Sort)<br>
 • Sortowanie przez selekcję (Selection Sort)<br>
@@ -9,7 +9,7 @@ Projekt służy do porównywania 6 różnych algorytmów sortowania, są to:<br>
 • Sortowanie Shella (Shell sort)<br>
 • Sortowanie przez kopcowanie (Heap Sort)<br>
 
-Oraz przetestowania ich i porównania wyników na tablicach o wartościach typu int z zakresu <-100; 100> w następujących testach:<br><br>
+Oraz przetestowania ich i porównania wyników na tablicach o wartościach typu int z zakresu <-100; 100> w następujących testach:<br>
 
 • Test 1 - Dla danych wygenerowanych losowo<br>
 • Test 2 - Dla danych posortowanych malejąco<br>
