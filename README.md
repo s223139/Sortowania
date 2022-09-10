@@ -22,9 +22,9 @@ Poniżej można zobaczyć przykładowe resultaty dla 5000, 25000, 50000, 100000,
 Można zauważyć, że algorytmy z grupy pierwszej radzą sobie dobrze tylko przy małej ilości danych, przy większej, czas wykonywania znacząco wzrasta. Jest to niezależne od tego czy dane są posortowane losowo czy odwrotnie. Wyjątkiem jest tutaj Insertion Sort, w przypadku danych posortowanych właściwie –  dzięki swojej specyfice działania radzi on sobie bardzo dobrze, ponieważ właściwie tylko pomija przez cały rozmiar tablicy.<br> 
 Algorytmy z grupy drugiej radzą sobie na tyle dobrze, że w przypadku gdy algorytmy grupy pierwszej osiągają już wartości które dałyby wynik łącznie ponad 15 minut dla wszystkich testów, te nadal wykonują je w ciągu mniej niż sekundy.<br>
 
-<br>Porównując do tabeli złożoności
+Porównując do tabeli złożoności
 
 ![tabela](https://i.imgur.com/zuMQJgh.png)
 
-Możemy zauważyc, że algorytmy osiągały wyniki pokrywające się z tabelą złożoności czasowych, lecz że nie było testu w którym wszystkie algorytmy jednocześnie osiągnęłyby swoją pesymistyczną albo optymistyczną złożoność. Dowodzi to temu, że w zależności od ilości danych oraz tego jak są one ułożone należy wykorzystywać odpowiednie algorytmy. <br>
+Możemy zauważyć, że algorytmy osiągały wyniki pokrywające się z tabelą złożoności czasowych, lecz że nie było testu w którym wszystkie algorytmy jednocześnie osiągnęłyby swoją pesymistyczną albo optymistyczną złożoność. Dowodzi to temu, że w zależności od ilości danych oraz tego jak są one ułożone należy wykorzystywać odpowiednie algorytmy. <br>
 Na ogół jednak algorytmy najlepiej radziły sobie z posortowaną właściwie tablicą. Najgorzej natomiast z tablicą posortowaną odwrotnie
