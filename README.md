@@ -9,12 +9,13 @@ Projekt służy do porównywania 6 różnych algorytmów sortowania, są to:<br>
 • Sortowanie Shella (Shell sort)<br>
 • Sortowanie przez kopcowanie (Heap Sort)<br>
 
-Oraz przetestowania ich i porównania wyników na tablicach o wartościach typu int z zakresu <-100; 100> w następujących testach:<br>
+Oraz przetestowania ich i porównania wyników na tablicach o wartościach typu int z zakresu <-100; 100> w następujących testach:<br><br>
+
 • Test 1 - Dla danych wygenerowanych losowo<br>
 • Test 2 - Dla danych posortowanych malejąco<br>
 • Test 3 - Dla danych posortowanych rosnąco<br>
 
-Poniżej można zobaczyć przykładowe resultaty dla danych <br>
+Poniżej można zobaczyć przykładowe resultaty dla 5000, 25000, 50000, 100000, 150000, 200000, 250000 danych w tablicy. <br>
 
 ![dane](https://i.imgur.com/YyK4Sjt.png)
 
