@@ -13,3 +13,7 @@ Oraz przetestowania ich i porównania wyników na tablicach o wartościach typu 
 • Test 1 - Dla danych wygenerowanych losowo<br>
 • Test 2 - Dla danych posortowanych malejąco<br>
 • Test 3 - Dla danych posortowanych rosnąco<br>
+
+Poniżej można zobaczyć przykładowe resultaty dla danych <br>
+
+![alt text](https://i.imgur.com/YyK4Sjt.png)
